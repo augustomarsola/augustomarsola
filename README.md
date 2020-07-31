@@ -1,6 +1,6 @@
 ### Hey, I'm Augusto Marsola! 👋
-A Web & Mobile development enthusiast who loves new technologies. 👨‍💻
-💻 Front End Developer at @MPSInformática
+A Web & Mobile development enthusiast who loves new technologies. 👨‍💻 <br>
+💻 Front End Developer at @MPSInformática <br>
 🇧🇷 Born and living in São Paulo, Brazil
 
 🚀 Currently focused on OmniStack (Node.js, ReactJS and React Native). 
