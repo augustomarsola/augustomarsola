@@ -1,15 +1,15 @@
 ### Hey, I'm Augusto Marsola! 👋
 A Web & Mobile development enthusiast who loves new technologies. 👨‍💻 <br>
 💻 Front End Developer at @MPSInformática <br>
-🇧🇷 Born and living in São Paulo, Brazil
+🇧🇷 Born and living in São Paulo, Brazil <br>
 🚀 Currently focused on React.JS development
 
 ##
 
 <div align="center">
  <a href="https://github.com/augustomarsola">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustomarsola&layout=compact&langs_count=7&theme=dracula"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustomarsola&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustomarsola&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustomarsola&layout=compact&langs_count=7&theme=monokai"/>
 </div>
  <div align="center" style="display: inline_block"><br>
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
