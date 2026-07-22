@@ -1,37 +1,74 @@
-### Hey, I'm Augusto Marsola! 👋
-A Web & Mobile development enthusiast who loves new technologies. 👨‍💻 <br>
-💻 Front End Developer at @MPSInformática <br>
-🇧🇷 Born and living in São Paulo, Brazil <br>
-🚀 Currently focused on React.JS development
+# Hi, I'm Augusto Marsola 👋
 
-##
+### Senior Front-End & Full-Stack Engineer | Technical Lead
+
+Brazilian software engineer currently based in Orlando, Florida, with 11+ years of experience building scalable web applications, enterprise platforms, design systems, micro frontends, and full-stack solutions.
+
+My strongest specialization is front-end engineering with React, Next.js, TypeScript, and Angular, supported by hands-on back-end experience with Node.js, C#/.NET, REST and SOAP APIs, PostgreSQL, and SQL Server.
+
+## About Me
+
+- ⚛️ Specialized in React, Next.js, TypeScript, Angular, and modern front-end architecture
+- 🧩 Experienced with Design Systems, Micro Frontends, component libraries, and BFF patterns
+- ⚙️ Full-stack experience with Node.js, C#/.NET, REST/SOAP APIs, PostgreSQL, and SQL Server
+- ☁️ Cloud experience with Microsoft Azure, AWS, and Google Cloud Platform
+- 🚀 Experienced with Azure DevOps, CI/CD, Docker, automated testing, and legacy modernization
+- 👥 Former Technical Lead supporting multiple cross-functional squads
+- 🤖 Exploring AI-assisted software engineering, agents, automation, and RPA
+- 📚 Production experience with Angular through version 17 and currently studying Angular 22
+- 🌎 Advanced English proficiency for technical discussions and international collaboration
+
+## Core Technologies
+
+### Front-End
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+### Back-End & Data
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### Cloud & DevOps
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## Featured Work
+
+- [Professional Portfolio](https://augustomarsola.github.io/)
+- [Azure DevOps Engineering Analytics Dashboard](https://github.com/augustomarsola/alper-azure-query)
+- [GitHub Repositories](https://github.com/augustomarsola?tab=repositories)
+
+## Professional Links
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Augusto_Marsola-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-marsola/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-24292F?style=for-the-badge&logo=githubpages&logoColor=white)](https://augustomarsola.github.io/)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:augusto.marsola@live.com)
+
+## GitHub Activity
 
 <div align="center">
- <a href="https://github.com/augustomarsola">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=augustomarsola&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustomarsola&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
- <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Next JS" height="30" width="30" src="https://ui-lib.com/blog/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png" />
-  <img align="center" alt="Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="JAM Stack" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" />
-  <img align="center" alt="Typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-</div>
- 
-##
- 
-<div align="center"> 
- <a href = "mailto:augusto.marsola@live.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
- <a href="https://www.linkedin.com/in/augusto-marsola/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://augustomarsola.github.io/" target="_blank"><img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>  
-  
-  ![Snake animation](https://github.com/augustomarsola/augustomarsola/blob/output/github-contribution-grid-snake.svg)  
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=augustomarsola&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
+    alt="Augusto Marsola GitHub statistics"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustomarsola&layout=compact&langs_count=8&theme=github_dark"
+    alt="Augusto Marsola most used languages"
+  />
 </div>
