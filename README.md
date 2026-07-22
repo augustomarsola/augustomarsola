@@ -57,18 +57,3 @@ My strongest specialization is front-end engineering with React, Next.js, TypeSc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Augusto_Marsola-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/augusto-marsola/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-24292F?style=for-the-badge&logo=githubpages&logoColor=white)](https://augustomarsola.github.io/)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:augusto.marsola@live.com)
-
-## GitHub Activity
-
-<div align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=augustomarsola&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"
-    alt="Augusto Marsola GitHub statistics"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustomarsola&layout=compact&langs_count=8&theme=github_dark"
-    alt="Augusto Marsola most used languages"
-  />
-</div>
