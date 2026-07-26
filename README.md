@@ -2,7 +2,7 @@
 
 ### Senior Front-End & Full-Stack Engineer | Technical Lead
 
-Brazilian software engineer currently based in Orlando, Florida, with 11+ years of experience building scalable web applications, enterprise platforms, design systems, micro frontends, and full-stack solutions.
+Brazilian software engineer currently based in Orlando, Florida, with 12+ years of experience building scalable web applications, enterprise platforms, design systems, micro frontends, and full-stack solutions.
 
 My strongest specialization is front-end engineering with React, Next.js, TypeScript, and Angular, supported by hands-on back-end experience with Node.js, C#/.NET, REST and SOAP APIs, PostgreSQL, and SQL Server.
 
@@ -13,9 +13,9 @@ My strongest specialization is front-end engineering with React, Next.js, TypeSc
 - ⚙️ Full-stack experience with Node.js, C#/.NET, REST/SOAP APIs, PostgreSQL, and SQL Server
 - ☁️ Cloud experience with Microsoft Azure, AWS, and Google Cloud Platform
 - 🚀 Experienced with Azure DevOps, CI/CD, Docker, automated testing, and legacy modernization
-- 👥 Former Technical Lead supporting multiple cross-functional squads
-- 🤖 Exploring AI-assisted software engineering, agents, automation, and RPA
-- 📚 Production experience with Angular through version 17 and currently studying Angular 22
+- 👥 Technical leader experienced in guiding cross-functional teams and supporting architecture across multiple squads
+- 🤖 Applying AI-assisted engineering, agents, automation, and RPA to accelerate development, testing, documentation, technical discovery, and MVP delivery
+- 📚 Experience with AngularJS/Angular 1-22, including enterprise modernization initiatives from Angular 7/8 to Angular 17
 - 🌎 Advanced English proficiency for technical discussions and international collaboration
 
 ## Core Technologies
